@@ -1,0 +1,48 @@
+:root{
+    --main-color:#505050;
+    --border-color:#DADCDC;
+}
+
+.areaColorLanding{
+    background-color: white;
+    height: 100vh;
+    width: 87vw;
+    display:grid;
+    align-content: space-between;
+}
+.bordeTop{
+    border: 2px solid var(--border-color);
+    margin: 1vh 0.5vw;
+    height: 5vh;
+}
+.bordeMid{
+    border: 2px solid #539FF0;
+    background-color: #F3F9FE;
+    margin: 2vh 1.5vw 1vh 1.5vw;
+    padding:2rem 3rem;
+    border-radius: 4rem;
+    height: 25vh;
+    color: #539FF0
+}
+.bordeBottom{
+    border: 2px solid var(--border-color);
+    margin: 3vh 1.5vw;
+    border-radius: 4rem;
+    height: 60vh;
+
+}
+.charactergrid{
+    display:grid;
+    grid-template-columns: 10vw 10vw 10vw 10vw ;
+    grid-gap:auto;
+    margin:auto;
+    width:auto;
+    height:100%;
+}
+.characterBox{
+    padding:2rem;
+    width:12vw;
+    height:23vh;
+    margin:auto auto;
+    border-radius: 1.6rem;
+}

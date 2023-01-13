@@ -1,0 +1,15 @@
+:root{
+    --main-color:#505050
+}
+
+.colorArea{ 
+    background-color: var(--main-color);
+    height:100vh;
+    display:grid;
+    align-content: space-between;
+    color:white;
+}
+
+.w-13{
+    width:13vw;
+}
