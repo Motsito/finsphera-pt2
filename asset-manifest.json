@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/finsphera-pt2/static/css/main.3dc1d97b.css",
+    "main.js": "/finsphera-pt2/static/js/main.fd4090b6.js",
+    "static/js/787.5d6ff3fa.chunk.js": "/finsphera-pt2/static/js/787.5d6ff3fa.chunk.js",
+    "index.html": "/finsphera-pt2/index.html",
+    "main.3dc1d97b.css.map": "/finsphera-pt2/static/css/main.3dc1d97b.css.map",
+    "main.fd4090b6.js.map": "/finsphera-pt2/static/js/main.fd4090b6.js.map",
+    "787.5d6ff3fa.chunk.js.map": "/finsphera-pt2/static/js/787.5d6ff3fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dc1d97b.css",
+    "static/js/main.fd4090b6.js"
+  ]
+}
